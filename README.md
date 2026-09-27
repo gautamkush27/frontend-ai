@@ -2,7 +2,7 @@
 
 **Senior Software Architect | Java 17/21 • Angular • Microservices | AWS Certified Solutions Architect**
 
-I'm a Senior Software Architect with 10+ years of experience designing, building and modernizing enterprise Java, Spring Boot and Angular systems across finance, telecom and networking domains. Currently, I architect microservices for financial-services platforms while directing AI coding agents through prompt engineering — combining deep system design with AI-assisted delivery.
+I'm a Senior Software Architect with 11+ years of experience designing, building and modernizing enterprise Java, Spring Boot and Angular systems across finance, telecom and networking domains. Currently, I architect microservices for financial-services platforms while directing AI coding agents through prompt engineering — combining deep system design with AI-assisted delivery.
 
 ---
 
